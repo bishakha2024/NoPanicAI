@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690768505313",
+    "project_id": "nopanicai-7bd86",
+    "storage_bucket": "nopanicai-7bd86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690768505313:android:57230434adc5253a5fcaa0",
+        "android_client_info": {
+          "package_name": "com.example.nopanicai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-X-B_b1NCcWbOW2V5CPlgoXx-I8jrjXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
